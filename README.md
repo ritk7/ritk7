@@ -9,11 +9,11 @@
 
 I build things where "mostly working" isn't good enough — market orders don't get a retry :')
 
-B.Tech CSE (AI) at Manipal Institute of Technology. Currently a Software Engineer on Upwork, building event-driven trading systems and automation tooling. Into backend engineering, applied AI/retrieval systems, and code that has to be correct — not just working.
+4th-year B.Tech CSE (AI) student at Manipal Institute of Technology, Bengaluru. Previously a Software Engineer on Upwork, building event-driven trading systems and automation tooling. Into backend engineering, applied AI/retrieval systems, and code that has to be correct — not just working.
 
 ### What I'm up to
 
-- Running an event-driven NSE intraday trading platform (Python, Kite Connect) — 5-year backtester, crash recovery, persistent risk controls
+- Built an event-driven NSE intraday trading platform (Python, Kite Connect) — 5-year backtester, crash recovery, persistent risk controls
 - Built HNSW vector search from scratch for a RAG knowledge platform — 0.950 MRR with cross-encoder re-ranking, benchmarked against brute-force and ChromaDB
 - Built an AI PR reviewer with a transparent risk-scoring formula — validated on 5+ repos, 40 automated tests
 - 150+ DSA problems on LeetCode, 5★ Gold on HackerRank, Top Rated on Upwork
@@ -60,6 +60,9 @@ B.Tech CSE (AI) at Manipal Institute of Technology. Currently a Software Enginee
 ## Find Me
 
 <p>
+<a href="https://ritwik-portfolio-liart.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/>
+</a>
 <a href="https://github.com/ritk7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="20"/>
 </a>
