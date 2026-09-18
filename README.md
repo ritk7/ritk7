@@ -1,21 +1,22 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=FF0000&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ritwik" alt="Hi, I'm Ritwik" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3100&pause=1800&color=39FF14&left=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ritwik" alt="Hi, I'm Ritwik" />
 </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=19&duration=3000&pause=1000&color=555555&left=true&vCenter=true&width=650&lines=Software+Engineer+Intern;Backend%2C+AI+%26+trading+systems;I+Turn+Coffee+Into+Code." alt="Software Engineer Intern. Backend, AI & trading systems. I turn coffee into code." />
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=FFD700&left=true&vCenter=true&width=150&height=36&lines=Portfolio" alt="Portfolio" /> ➜ <a href="https://ritwik-portfolio-liart.vercel.app"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=4000&pause=100000&color=00E5FF&left=true&vCenter=true&width=150&height=36&lines=Portfolio" alt="Portfolio" /> ➜ <a href="https://ritwik-portfolio-liart.vercel.app"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20"/></a>
 </p>
 
-I'm pursuing a B.Tech in Computer Science Engineering (AI) at Manipal Institute of Technology, currently working as a Software Engineer on Upwork where I build event-driven trading systems and automation tooling. My interests are aligned with backend engineering, applied AI and retrieval systems, and building things that have to be correct, not just working.
+I build things where "mostly working" isn't good enough — market orders don't get a retry :')
+
+B.Tech CSE (AI) at Manipal Institute of Technology. Currently a Software Engineer on Upwork, building event-driven trading systems and automation tooling. Into backend engineering, applied AI/retrieval systems, and code that has to be correct — not just working.
 
 ### What I'm up to
 
-- Building an event-driven NSE intraday trading platform (Python, Zerodha Kite Connect API) with a 5-year backtesting engine, crash recovery and persistent risk controls
-- Built a FastAPI knowledge platform with a custom HNSW search algorithm implemented from scratch, benchmarked against brute-force search and ChromaDB — 0.950 MRR with cross-encoder re-ranking
-- Built an AI PR & Code Review Assistant that analyzes real GitHub PRs with a transparent risk-scoring formula, validated on 5+ repos with 40 automated tests
-- Solved 150+ DSA problems on LeetCode and earned a 5-Star Gold Badge on HackerRank
-- Top Rated on Upwork for Python, API and automation work
+- Running an event-driven NSE intraday trading platform (Python, Kite Connect) — 5-year backtester, crash recovery, persistent risk controls
+- Built HNSW vector search from scratch for a RAG knowledge platform — 0.950 MRR with cross-encoder re-ranking, benchmarked against brute-force and ChromaDB
+- Built an AI PR reviewer with a transparent risk-scoring formula — validated on 5+ repos, 40 automated tests
+- 150+ DSA problems on LeetCode, 5★ Gold on HackerRank, Top Rated on Upwork
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
